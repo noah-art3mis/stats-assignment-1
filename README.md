@@ -74,12 +74,12 @@ The IEA produced this dataset as part of efforts to track advances in carbon cap
 
 Describe datasets using relevant statistical measures
 
--   [x] Demonstrate familiarity and technical proficiency in identifying and visualising the relevant measures.
+-   [] Demonstrate familiarity and technical proficiency in identifying and visualising the relevant measures.
 -   [] Being comprehensive in identifying all relevant measures.
--   [x] Expertise in using python data science and visualisation libraries.
+-   [] Expertise in using python data science and visualisation libraries.
 -   [] Refine your use of core course concepts so that they are applied in ways that are notably insightful or novel.
--   [x] Identify non-obvious features of dataset.
--   [x] Engage in processes of data cleaning on otherwise hard-to-work-with datasets.
+-   [] Identify non-obvious features of dataset.
+-   [] Engage in processes of data cleaning on otherwise hard-to-work-with datasets.
 
 ## Refs
 
